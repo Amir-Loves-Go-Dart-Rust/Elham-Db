@@ -9,7 +9,7 @@
 customizable
 like specifying port-no
 - Turn it into a http and websocket server, use socket.io
-for future
+in future
 - Turn it into a service, so it can be accessed any time
 from cli and client
 - implement working with data types
